@@ -6,7 +6,7 @@ Este repositório contém o código-fonte de um projeto desenvolvido como parte 
 
 Descrição do Projeto
 
-Este projeto é um agente de conversação desenvolvido em Python utilizando a API do Google Gemini. Ele foi criado como parte da [Nome da Imersão] com o objetivo de explorar o uso de modelos de linguagem grande (LLMs) para auxiliar pessoas no processo de design de interiores e planejamento de espaços residenciais.
+Este projeto é um agente de conversação desenvolvido em Python utilizando a API do Google Gemini. Ele foi criado como parte da Imersão Alura com o objetivo de explorar o uso de modelos de linguagem grande (LLMs) para auxiliar pessoas no processo de design de interiores e planejamento de espaços residenciais.
 
 O Agente oferece funcionalidades como:
 - Condução de um briefing interativo para entender as necessidades e o estilo do usuário.
